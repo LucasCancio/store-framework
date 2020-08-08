@@ -15,7 +15,7 @@
     "children": ["product-name", "product-price", "buy-button"],
     "props": {
       "verticalAlign": "middle",
-      "preventVerticalStretch": false
+      "preventVerticalStretch": "true"
     }
   },
   "product-images": {
