@@ -47,7 +47,7 @@
   "tab-list.item#home2": {
     "props": {
       "tabId": "electronics",
-      "label": "Electronics"
+      "label": "Instagram"
     }
   },
   "tab-content.item#home1": {
